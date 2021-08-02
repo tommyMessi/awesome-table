@@ -19,6 +19,7 @@
 - This project aims to extract tables from scanned image PDFs using Optical Character Recognition.
 - https://github.com/eihli/image-table-ocr
 - Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.
-
+- https://github.com/JiaquanYe/TableMASTER-mmocr
+- 2nd solution of ICDAR 2021 Competition on Scientific Literature Parsing, Task B.
 
 微信公众号：hulugeAI 更多表格相关的与微信群
